@@ -1,5 +1,5 @@
 {
-  "name": "quazardous/rlw",
+  "name": "devnicematin/rlw",
   "version": "1.0.0",
   "require": {
 		"pimple/pimple": "*",
